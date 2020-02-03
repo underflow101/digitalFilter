@@ -1,4 +1,5 @@
 // MPU6050 with Kalman Filter applied
+// Use this with MPU6050 and 8*8 Dot Matrix
 
 #include "gyroKalmanFilter.h"
 #include <LedControl.h>
