@@ -1,4 +1,5 @@
 // Arudino Gyroscope + Kalman Filter (MPU6050)
+// Use this code for MCU with MPU6050 or Accelerometer/Gyroscope
 
 #include <math.h>
 #include <Wire.h>
